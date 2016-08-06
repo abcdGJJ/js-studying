@@ -18,4 +18,8 @@
     * [操作符](third/5.md)
     * [语句](third/6.md)
     * [函数](third/7.md)
+* [第四章](fourth/README.md)
+    * [基本类型和引用类型的值](fourth/1.md)
+    * [执行环境及作用域](fourth/2.md)
+    * [垃圾清理](fourth/3.md)
 
