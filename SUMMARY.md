@@ -27,7 +27,7 @@
     * [Array类型](fifth/2.md)
     * [Date类型](fifth/3.md)
     * [RegExp类型](fifth/4.md)
-    * \[Function类型\]\[fifth\/5.md\]
+    * [Function类型](fifth/5.md)
     * [基本包装类型](fifth/6.md)
     * [单体内置对象](fifth/7.md)
 
