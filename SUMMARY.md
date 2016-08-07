@@ -22,4 +22,12 @@
     * [基本类型和引用类型的值](fourth/1.md)
     * [执行环境及作用域](fourth/2.md)
     * [垃圾清理](fourth/3.md)
+* [第五章](fifth/README.md)
+    * [Object类型](fifth/1.md)
+    * [Array类型](fifth/2.md)
+    * [Date类型](fifth/3.md)
+    * [RegExp类型](fifth/4.md)
+    * \[Function类型\]\[fifth\/5.md\]
+    * [基本包装类型](fifth/6.md)
+    * [单体内置对象](fifth/7.md)
 
