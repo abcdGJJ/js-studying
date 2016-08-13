@@ -6,12 +6,11 @@
     * [JavaScript实现](first/2.md)
 
 -----
-*   [第二章](second/README.md)
+* [第二章](second/README.md)
     * [script元素](second/1.md)
     * [文档模型](second/2.md)
     * [noscript元素](second/3.md)
-
-*   [第三章](third/README.md)
+* [第三章](third/README.md)
     * [语法](third/1.md)
     * [关键字和保留字](third/2.md)
     * [变量](third/3.md)
@@ -19,13 +18,11 @@
     * [操作符](third/5.md)
     * [语句](third/6.md)
     * [函数](third/7.md)
-
-*   [第四章](fourth/README.md)
+* [第四章](fourth/README.md)
     * [基本类型和引用类型的值](fourth/1.md)
     * [执行环境及作用域](fourth/2.md)
     * [垃圾清理](fourth/3.md)
-
-*   [第五章](fifth/README.md)
+* [第五章](fifth/README.md)
     * [Object类型](fifth/1.md)
     * [Array类型](fifth/2.md)
     * [Date类型](fifth/3.md)
@@ -33,14 +30,8 @@
     * [Function类型](fifth/5.md)
     * [基本包装类型](fifth/6.md)
     * [单体内置对象](fifth/7.md)
-
-*   [第六章](sixth/README.md)
-
-    - [理解对象](sixth/1.md)
-
-    - [创建对象](sixth/2.md)
-
-    - [继承](sixth/3.md)
-
-      ​
+* [第六章](sixth/README.md)
+    * [理解对象](sixth/1.md)
+    * [创建对象](sixth/2.md)
+    * [继承](sixth/3.md)
 
