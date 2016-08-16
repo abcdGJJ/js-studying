@@ -34,4 +34,9 @@
     * [理解对象](sixth/1.md)
     * [创建对象](sixth/2.md)
     * [继承](sixth/3.md)
+* [第七章](Seventh/README.md)
+    * [递归](Seventh/1.md)
+    * [闭包](Seventh/2.md)
+    * [模仿块级作用域](seventh/3.md)
+    * [私有变量](seventh/4.md)
 
