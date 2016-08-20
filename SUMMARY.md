@@ -5,7 +5,7 @@
     * [JavaScript简史](first/1.md)
     * [JavaScript实现](first/2.md)
 
-
+-----
 * [第二章](second/README.md)
     * [script元素](second/1.md)
     * [文档模型](second/2.md)
@@ -40,9 +40,12 @@
     * [模仿块级作用域](seventh/3.md)
     * [私有变量](seventh/4.md)
 * [第八章](eighth/README.md)
-    - [window对象](eighth/1.md)
-    - [location对象](eighth/2.md)
-    - [navigator对象](eighth/3.md)
-    - [screen对象](eighth/4.md)
-    - [history对象](eighth/5.md)
+    * [window对象](eighth/1.md)
+    * [location对象](eighth/2.md)
+    * [navigator对象](eighth/3.md)
+    * [screen对象](eighth/4.md)
+    * [history对象](eighth/5.md)
+* [第十章](tenth/README.md)
+    * [节点层次](tenth/1.md)
+    * [DOM操作技术](tenth/2.md)
 
