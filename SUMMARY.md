@@ -58,4 +58,11 @@
     * [样式](twelfth/2.md)
     * [遍历](twelfth/3.md)
     * [范围](twelfth/4.md)
+* [第十三章](thirteenth/README.md)
+    * [事件流](thirteenth/1.md)
+    * [事件处理程序](thirteenth/2.md)
+    * [事件对象](thirteenth/3.md)
+    * [事件类型](thirteenth/4.md)
+    * [内存和性能](thirteenth/5.md)
+    * [模拟事件](thirteenth/6.md)
 
